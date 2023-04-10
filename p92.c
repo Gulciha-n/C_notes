@@ -11,5 +11,7 @@ int main()
        ptr[a] = a; 
        printf("%d ", ptr[a]);
   }
+  
+  
   return 0;
 }
