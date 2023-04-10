@@ -12,10 +12,5 @@ for(int k=0; k<=10; k++){
     	a++;
     	printf("%d",a);
 }
-
-
-
-
-
     return 0;
 }
